@@ -1,5 +1,3 @@
-# Hello-World
-
 # **Pierre Vivoni**
 
 ## I enjoy cooking, Brazilian Jiu Jitsu, music, video games, and programming. 
